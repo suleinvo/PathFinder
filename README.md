@@ -3,5 +3,6 @@ O(n) algorithm implamentation
 
 
 
-[![Travis](https://img.shields.io/travis/USER/REPO.svg)](https://travis-ci.org/suleinvo/PathFinder/)
+[![Travis](https://travis-ci.org/suleinvo/PathFinder.svg?branch=master)](https://travis-ci.org/suleinvo/PathFinder/)
+
 
