@@ -4,4 +4,4 @@ dotnet: 1.1.5
 before_script:
  - dotnet restore
 script:
- - dotnet test
+ - dotnet test ./PathFinder.Tests
